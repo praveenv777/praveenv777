@@ -1,6 +1,10 @@
 
-### Hi there 👋 I'm Praveen V
+                                                      Hi there 👋 I'm Praveen V
+                                                  WEB DEVELOPER FROM INDIA ![image] 
+              (https://github.com/praveenv777/praveenv777/assets/109979882/0932dc64-3fb8-4662-a500-68069e3ba83f)
 
+                                                      
+  - 🔭 I’m currently working on ...
 
 <!--
 **praveenv777/praveenv777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
