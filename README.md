@@ -26,7 +26,7 @@
 
 📫 How to reach me **vpraveen820@gmail.com**
 
-📄 Know about my experiences at my **[LinkedIn Profile](www.linkedin.com/in/praveen-v-6737321a5)**
+📄 Know about my experiences at my **[LinkedIn Profile](https://www.linkedin.com/in/praveen-v-6737321a5)**
 <!--
 **praveenv777/praveenv777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
