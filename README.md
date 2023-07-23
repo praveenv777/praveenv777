@@ -24,7 +24,7 @@
 
 ## 💪 Passionate about **`Competitive Coding`**
 
-📫 How to reach me **vpraveen820@gmail.com**
+📫 How to reach me **pv5157755@gmail.com**
 
 📄 Know about my experiences at my **[LinkedIn Profile](https://www.linkedin.com/in/praveen-v-6737321a5)**
 <!--
